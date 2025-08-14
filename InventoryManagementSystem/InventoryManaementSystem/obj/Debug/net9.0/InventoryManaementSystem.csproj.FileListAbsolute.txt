@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\InventoryManaementSystem\InventoryManaementSystem\bin\Debug\net9.0\InventoryManaementSystem.exe
+C:\Users\ASUS\source\repos\InventoryManaementSystem\InventoryManaementSystem\bin\Debug\net9.0\InventoryManaementSystem.deps.json
+C:\Users\ASUS\source\repos\InventoryManaementSystem\InventoryManaementSystem\bin\Debug\net9.0\InventoryManaementSystem.runtimeconfig.json
+C:\Users\ASUS\source\repos\InventoryManaementSystem\InventoryManaementSystem\bin\Debug\net9.0\InventoryManaementSystem.dll
+C:\Users\ASUS\source\repos\InventoryManaementSystem\InventoryManaementSystem\bin\Debug\net9.0\InventoryManaementSystem.pdb
+C:\Users\ASUS\source\repos\InventoryManaementSystem\InventoryManaementSystem\obj\Debug\net9.0\InventoryManaementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\InventoryManaementSystem\InventoryManaementSystem\obj\Debug\net9.0\InventoryManaementSystem.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\InventoryManaementSystem\InventoryManaementSystem\obj\Debug\net9.0\InventoryManaementSystem.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\InventoryManaementSystem\InventoryManaementSystem\obj\Debug\net9.0\InventoryManaementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\InventoryManaementSystem\InventoryManaementSystem\obj\Debug\net9.0\InventoryManaementSystem.dll
+C:\Users\ASUS\source\repos\InventoryManaementSystem\InventoryManaementSystem\obj\Debug\net9.0\refint\InventoryManaementSystem.dll
+C:\Users\ASUS\source\repos\InventoryManaementSystem\InventoryManaementSystem\obj\Debug\net9.0\InventoryManaementSystem.pdb
+C:\Users\ASUS\source\repos\InventoryManaementSystem\InventoryManaementSystem\obj\Debug\net9.0\InventoryManaementSystem.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\InventoryManaementSystem\InventoryManaementSystem\obj\Debug\net9.0\ref\InventoryManaementSystem.dll
