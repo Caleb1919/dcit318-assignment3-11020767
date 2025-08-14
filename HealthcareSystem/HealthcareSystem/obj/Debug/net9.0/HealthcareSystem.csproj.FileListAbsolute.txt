@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\HealthcareSystem\HealthcareSystem\bin\Debug\net9.0\HealthcareSystem.exe
+C:\Users\ASUS\source\repos\HealthcareSystem\HealthcareSystem\bin\Debug\net9.0\HealthcareSystem.deps.json
+C:\Users\ASUS\source\repos\HealthcareSystem\HealthcareSystem\bin\Debug\net9.0\HealthcareSystem.runtimeconfig.json
+C:\Users\ASUS\source\repos\HealthcareSystem\HealthcareSystem\bin\Debug\net9.0\HealthcareSystem.dll
+C:\Users\ASUS\source\repos\HealthcareSystem\HealthcareSystem\bin\Debug\net9.0\HealthcareSystem.pdb
+C:\Users\ASUS\source\repos\HealthcareSystem\HealthcareSystem\obj\Debug\net9.0\HealthcareSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\HealthcareSystem\HealthcareSystem\obj\Debug\net9.0\HealthcareSystem.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\HealthcareSystem\HealthcareSystem\obj\Debug\net9.0\HealthcareSystem.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\HealthcareSystem\HealthcareSystem\obj\Debug\net9.0\HealthcareSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\HealthcareSystem\HealthcareSystem\obj\Debug\net9.0\HealthcareSystem.dll
+C:\Users\ASUS\source\repos\HealthcareSystem\HealthcareSystem\obj\Debug\net9.0\refint\HealthcareSystem.dll
+C:\Users\ASUS\source\repos\HealthcareSystem\HealthcareSystem\obj\Debug\net9.0\HealthcareSystem.pdb
+C:\Users\ASUS\source\repos\HealthcareSystem\HealthcareSystem\obj\Debug\net9.0\HealthcareSystem.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\HealthcareSystem\HealthcareSystem\obj\Debug\net9.0\ref\HealthcareSystem.dll
