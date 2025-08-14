@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\InventoryRecords\InventoryRecords\bin\Debug\net9.0\InventoryRecords.exe
+C:\Users\ASUS\source\repos\InventoryRecords\InventoryRecords\bin\Debug\net9.0\InventoryRecords.deps.json
+C:\Users\ASUS\source\repos\InventoryRecords\InventoryRecords\bin\Debug\net9.0\InventoryRecords.runtimeconfig.json
+C:\Users\ASUS\source\repos\InventoryRecords\InventoryRecords\bin\Debug\net9.0\InventoryRecords.dll
+C:\Users\ASUS\source\repos\InventoryRecords\InventoryRecords\bin\Debug\net9.0\InventoryRecords.pdb
+C:\Users\ASUS\source\repos\InventoryRecords\InventoryRecords\obj\Debug\net9.0\InventoryRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\InventoryRecords\InventoryRecords\obj\Debug\net9.0\InventoryRecords.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\InventoryRecords\InventoryRecords\obj\Debug\net9.0\InventoryRecords.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\InventoryRecords\InventoryRecords\obj\Debug\net9.0\InventoryRecords.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\InventoryRecords\InventoryRecords\obj\Debug\net9.0\InventoryRecords.dll
+C:\Users\ASUS\source\repos\InventoryRecords\InventoryRecords\obj\Debug\net9.0\refint\InventoryRecords.dll
+C:\Users\ASUS\source\repos\InventoryRecords\InventoryRecords\obj\Debug\net9.0\InventoryRecords.pdb
+C:\Users\ASUS\source\repos\InventoryRecords\InventoryRecords\obj\Debug\net9.0\InventoryRecords.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\InventoryRecords\InventoryRecords\obj\Debug\net9.0\ref\InventoryRecords.dll
