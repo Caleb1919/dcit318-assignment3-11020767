@@ -1,0 +1,4 @@
+﻿101, Alice Smith, 84
+102, Bob Johnson, 72
+103, Charlie Brown, 58
+104, Diana Prince, 49

@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\schoolgradingSystem\schoolgradingSystem\bin\Debug\net9.0\schoolgradingSystem.exe
+C:\Users\ASUS\source\repos\schoolgradingSystem\schoolgradingSystem\bin\Debug\net9.0\schoolgradingSystem.deps.json
+C:\Users\ASUS\source\repos\schoolgradingSystem\schoolgradingSystem\bin\Debug\net9.0\schoolgradingSystem.runtimeconfig.json
+C:\Users\ASUS\source\repos\schoolgradingSystem\schoolgradingSystem\bin\Debug\net9.0\schoolgradingSystem.dll
+C:\Users\ASUS\source\repos\schoolgradingSystem\schoolgradingSystem\bin\Debug\net9.0\schoolgradingSystem.pdb
+C:\Users\ASUS\source\repos\schoolgradingSystem\schoolgradingSystem\obj\Debug\net9.0\schoolgradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\schoolgradingSystem\schoolgradingSystem\obj\Debug\net9.0\schoolgradingSystem.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\schoolgradingSystem\schoolgradingSystem\obj\Debug\net9.0\schoolgradingSystem.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\schoolgradingSystem\schoolgradingSystem\obj\Debug\net9.0\schoolgradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\schoolgradingSystem\schoolgradingSystem\obj\Debug\net9.0\schoolgradingSystem.dll
+C:\Users\ASUS\source\repos\schoolgradingSystem\schoolgradingSystem\obj\Debug\net9.0\refint\schoolgradingSystem.dll
+C:\Users\ASUS\source\repos\schoolgradingSystem\schoolgradingSystem\obj\Debug\net9.0\schoolgradingSystem.pdb
+C:\Users\ASUS\source\repos\schoolgradingSystem\schoolgradingSystem\obj\Debug\net9.0\schoolgradingSystem.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\schoolgradingSystem\schoolgradingSystem\obj\Debug\net9.0\ref\schoolgradingSystem.dll
